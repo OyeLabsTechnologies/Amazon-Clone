@@ -1,4 +1,4 @@
-# Amazon-Clone-
+# Amazon-Clone
 Oyelabs’ Amazon clone helps you launch a scalable, feature-rich e-commerce app quickly and efficiently.
 <section>
 <h3>MOONFOREST – A Powerful Amazon Clone</a> for Your E-Commerce Business</h3>

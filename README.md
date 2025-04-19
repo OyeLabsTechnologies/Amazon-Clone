@@ -55,7 +55,7 @@ Oyelabs’ Amazon clone helps you launch a scalable, feature-rich e-commerce app
   </p>
 
  <p>
-  📧 <a href="mailto:grow@oyelabs.com">grow@oyelabs.com</a><br>
+  📧 <a href="mailto:myoyelabs@gmail.com">myoyelabs@gmail.com</a><br>
   🌐 <a href="https://www.oyelabs.com">www.oyelabs.com</a>
 </p>
 </section>

@@ -4,7 +4,7 @@ Oyelabs’ Amazon clone helps you launch a scalable, feature-rich e-commerce app
 <h3>MOONFOREST – A Powerful Amazon Clone</a> for Your E-Commerce Business</h3>
 
 <p>
-    <strong>MOONFOREST</strong> is a robust <a href="https://oyelabs.com/amazon-clone/" target="_blank">Amazon clone</a> script developed by Oyelabs to help you launch and grow your own scalable e-commerce platform. Whether you want to sell electronics, fashion, groceries, or niche products — MOONFOREST gives you the power to build your online store your way. Developed using cutting-edge technology like Laravel, MOONFOREST is built for performance, flexibility, and long-term growth.
+    <strong>MOONFOREST</strong> is a robust <a href="https://oyelabs.com/amazon-clone/?utm_source=Social+&utm_medium=github&utm_campaign=github_listing" target="_blank">Amazon clone</a> script developed by Oyelabs to help you launch and grow your own scalable e-commerce platform. Whether you want to sell electronics, fashion, groceries, or niche products — MOONFOREST gives you the power to build your online store your way. Developed using cutting-edge technology like Laravel, MOONFOREST is built for performance, flexibility, and long-term growth.
   </p>
   <p>
     From concept to launch — we’re with you all the way!
